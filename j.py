@@ -16,3 +16,7 @@ match input:
         print("random number: "+random.randint(0,100)) 
     case"3":
         print("random word: "+random.choice(["apple","banana","cherry","date","fig"]))
+    case"4":
+        num1=int(input("enter first number: "))
+        num2=int(input("enter second number: "))
+        print(f"the produt of {num1}and{num2}is{num1+num2}")
