@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import random
 print("welcome to this python application")
 print("what do you want to do for this app")
@@ -23,5 +24,7 @@ match input:
         print(f"the produt of {num1}and{num2}is{num1+num2}")
     case"5":
         print("invalid choice")
+=======
+>>>>>>> parent of 0d6255e (case3)
 =======
 >>>>>>> parent of 0d6255e (case3)
